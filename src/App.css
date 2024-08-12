@@ -10,7 +10,7 @@
 .products,
 .sign-up {
   display: flex;
-  height: 90vh;
+  height: 55vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
@@ -23,6 +23,7 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+
 }
 
 .products {
@@ -41,4 +42,5 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background */
 }
